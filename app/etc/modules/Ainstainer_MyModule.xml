@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<!DOCTYPE config>
+<config>
+    <modules>
+        <Ainstainer_MyModule>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Ainstainer_MyModule>
+    </modules>
+</config>
