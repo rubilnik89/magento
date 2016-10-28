@@ -7,4 +7,4 @@ Mage::app('admin')->setUseSessionInUrl(false);
 
 umask(0);
 
-echo Mage::getModel('mymodule/techLogic')->sayHello();
+echo Mage::getModel('techtalk/techLogic')->sayHello();

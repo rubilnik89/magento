@@ -2,9 +2,9 @@
 <!DOCTYPE config>
 <config>
     <modules>
-        <Ainstainer_MyModule>
+        <Ainstainer_TechTalk>
             <active>true</active>
             <codePool>local</codePool>
-        </Ainstainer_MyModule>
+        </Ainstainer_TechTalk>
     </modules>
 </config>
