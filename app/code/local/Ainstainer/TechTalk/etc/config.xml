@@ -34,7 +34,16 @@
         <models>
             <techtalk>
                 <class>Ainstainer_TechTalk_Model</class>
+                <resourceModel>techtalk_resource</resourceModel>
             </techtalk>
+            <techtalk_resource>
+                <class>Ainstainer_TechTalk_Model_Resource</class>
+                <entities>
+                    <contact>
+                        <table>ain_contact</table>
+                    </contact>
+                </entities>
+            </techtalk_resource>
         </models>
 
         <blocks>
@@ -44,5 +53,11 @@
         </blocks>
 
     </global>
+
+    <models>
+        <techtalk>
+            <class>Ainstainer_TechTalk_Model</class>
+        </techtalk>
+    </models>
 
 </config>
